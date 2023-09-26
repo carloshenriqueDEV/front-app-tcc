@@ -2,7 +2,7 @@
   "name": "front-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carloshenriqueDEV.github.io/tcc",
+  "homepage": "https://carloshenriqueDEV.github.io/front-app-tcc",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
